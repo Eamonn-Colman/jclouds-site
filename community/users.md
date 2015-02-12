@@ -69,6 +69,10 @@ We know folks from a good many places.  While this may just be a list of applica
     <td>Uses jclouds and Apache Whirr to deploy and test CloudTran applications on GoGrid and RackSpace</td>
 </tr>
 <tr>
+    <td><a href="http://www.computenext.com">ComputeNext</a></td>
+    <td>Uses jclouds to add addiitonal IaaS inventory and services available through ComputeNext Global Cloud Marketplace.</td>
+</tr>
+<tr>
     <td><a href="http://sourceforge.net/projects/dasein-cloud">Dasein Cloud</a></td>
     <td>Uses jclouds for Rackspace, GoGrid, Azure, and Terremark integration</td>
 </tr>
